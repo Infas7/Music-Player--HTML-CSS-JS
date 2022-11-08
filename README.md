@@ -2,4 +2,4 @@
 
 Simple browser based music player created using vanilla JS, HTML and CSS.
 
-Live site: playeronbrowser.netlify.app
+Live site: https://playeronbrowser.netlify.app/
